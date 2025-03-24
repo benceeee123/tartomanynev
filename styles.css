@@ -46,3 +46,8 @@ p.kepfelirat {
 p {
   text-align: justify;
 }
+
+body
+{
+  background-image: url("kepek/hatter.jpg");
+}
