@@ -1,0 +1,48 @@
+body {
+  font-family: sans-serif;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#tartalom {
+  background-color: rgba(255, 255, 255, 0.6);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 40px;
+  width: 980px;
+}
+
+.kepkeret {
+  width: 415px;
+  float: right;
+  padding: 0px 5px 5px;
+  overflow: hidden;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  background-color:  rgba(227, 235, 233, 0.8);
+}
+
+.kepkeret img {
+  width: 425px;
+  position: relative;
+  left: -5px;
+  border-bottom: 1px solid black;
+}
+
+h1, h2 {
+  font-variant: small-caps;
+}
+
+p.kepfelirat {
+  font-size: 1.1em;
+  margin: 0px;
+}
+
+p {
+  text-align: justify;
+}
