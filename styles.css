@@ -50,4 +50,5 @@ p {
 body
 {
   background-image: url("kepek/hatter.jpg");
+  background-repeat: no-repeat;
 }
